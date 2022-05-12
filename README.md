@@ -4,6 +4,9 @@ Nowadays everyone is able to apply filters to their own pictures, either by usin
 
 # Setup
 
-+ open the file "intro_computer_vision_template.ipynb" in [Google Colab](https://colab.research.google.com/)
++ Download the file "intro_computer_vision_template.ipynb" 
++ Open it in [Google Colab](https://colab.research.google.com/)
++ [Optional] Create a new folder "datattack/workshop-continental" in your Google Drive
++ [Optional] Copy the content of the folders "images" and "additional material" to this folder
 
 
